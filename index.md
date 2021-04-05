@@ -5,7 +5,7 @@ Cette page est destinée à publier et mettre à jour les informations et ressou
 Bonne navigation ! 
 
 
-### Enseignement LAVP
+# Enseignement LAVP
 
 ---
 [Mathématiques](/sample_page)
