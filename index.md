@@ -8,7 +8,7 @@ Bonne navigation !
 # Enseignement LAVP
 
 ---
-[Mathématiques](/sample_page)
+[Mathématiques](/mathematics)
 
 
 ---
