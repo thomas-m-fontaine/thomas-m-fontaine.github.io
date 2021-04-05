@@ -2,11 +2,10 @@ title: Thomas M. FONTAINE # your name (or website title) here
 logo: "/images/1552048013453.jpeg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Mél : thomas.fontaine@universite-paris-saclay.fr
+  (<a href="https://www.linkedin.com/in/thomas-m-fontaine">Profil LinkedIn</a> & Références)
   <br><br>
   Formateur au <a href="https://www.lyceedadultes.fr/">Lycée d'Adultes de la Ville de Paris</a>.
   <br><br>
   Stagiaire au Groupe de Théorie Neurale, <a href="https://lnc2.dec.ens.fr/fr">Laboratoire de Neurosciences Cognitives Computationnelles (INSERM U960)</a>, Ecole Normale Supérieure.
-  <br><br>
-  <a href="https://www.linkedin.com/in/thomas-m-fontaine">View My LinkedIn Profile</a> 
-  
+  <br><br> 
 theme: jekyll-theme-minimal
