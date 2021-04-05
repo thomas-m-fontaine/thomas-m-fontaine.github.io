@@ -1,11 +1,12 @@
-# Bienvenue
+# Ressources pédagogiques
 
-Cette page est destinée à publier et mettre à jour les informations et ressources relatives aux cours dispensés au Lycée d'Adultes de la Ville de Paris. L'auditeur, bienvenu sur cette page, trouvera pour chaque matière enseignée les informations relatives à l'organisation des cours (présentiels comme distanciels) de sa classe, ainsi que les ressources pédagogiques correspondantes. 
+Cette page est vouée à publier et mettre à jour les informations et ressources à destination des auditeurs du Lycée d'Adultes de la Ville de Paris. Pour chaque enseignement, l'auditeur de chaque classe - bienvenu sur cette page - accèdera ici à l'organisation (présentielle ou distancielle), aux dates et horaires des cours, aussi bien qu'aux ressources correspondantes (résumé et fiches de cours, tutoriaux, exercices, et évaluations). 
+
 
 Bonne navigation ! 
 
 
-# Enseignement LAVP
+# Enseignements au LAVP
 
 ---
 [Mathématiques](/mathematics)
