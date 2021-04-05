@@ -20,7 +20,7 @@ Bonne navigation !
 
 
 ---
-[Enseignement Scientifique](/pdf/es.pdf)
+[Enseignement Scientifique](/es)
 
 
 ---
