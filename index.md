@@ -12,11 +12,11 @@ Bonne navigation !
 
 
 ---
-[Physique-Chimie](/pdf/sample_presentation.pdf)
+[Physique-Chimie](/pc)
 
 
 ---
-[Sciences de la Vie et de la Terre](http://example.com/)
+[Sciences de la Vie et de la Terre](/svt)
 
 
 ---
