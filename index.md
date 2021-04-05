@@ -2,7 +2,7 @@
 
 ---
 
-### Enseignement
+### Enseignement LAVP
 
 [Mathématiques](/sample_page)
 
@@ -17,7 +17,7 @@
 
 ---
 
-### Category Name 2
+### Travaux de recherche
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
