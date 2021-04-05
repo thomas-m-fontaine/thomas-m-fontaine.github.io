@@ -5,12 +5,16 @@
 
 ---
 [Mathématiques](/sample_page)
+
 ---
 [Physique-Chimie](/pdf/sample_presentation.pdf)
+
 ---
 [Sciences de la Vie et de la Terre](http://example.com/)
+
 ---
 [Enseignement Scientifique](http://example.com/)
+
 ---
 
 ### Credits 
