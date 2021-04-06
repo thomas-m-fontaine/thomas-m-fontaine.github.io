@@ -11,7 +11,7 @@ Cliquez sur ce lien pour accéder au cours en direct :
 
 azertyuiop
 
-# Enseignements au LAVP
+# Enseignements LAVP
 
 ---
 [Mathématiques](/mathematics)
