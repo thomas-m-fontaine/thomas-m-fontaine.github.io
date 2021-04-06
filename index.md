@@ -9,7 +9,7 @@ Bonne navigation !
 
 Cliquez sur ce lien pour accéder au cours en direct : 
 
-azertyuiop
+[Cours en ligne - BigBlueButton](https://demo.bigbluebutton.org/gl/tho-lsj-s1h-pf0)
 
 NB : Le confinement actuel s'étend sur les quatres prochaines semaines et recouvre une première période de cours (semaine du 6 au 10 avril 2021 inclus) suivie d'une période de vacances de deux semaines (du 12 au 25 avril 2021), et enfin d'une seconde période de cours (semaine du 26 avril au 1er mai 2021). Pendant ces deux périodes de cours, l'enseignement sera dispensé en distanciel aux dates et horaires habituels sur la plateforme 'BigBlueButton' - accessible en cliquant sur le lien c-dessus depuis n'importe quel navigateur internent (e.g. Mozilla Firefox, Google Chrome, etc.) et n'importe quel matériel connecré à internet (e.g. ordinateur, téléphone portable, etc.). 
 
