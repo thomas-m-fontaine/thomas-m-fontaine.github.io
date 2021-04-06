@@ -18,6 +18,10 @@ azertyuiop
 
 
 ---
+[Enseignement Scientifique](/es)
+
+
+---
 [Physique-Chimie](/pc)
 
 
@@ -26,7 +30,4 @@ azertyuiop
 
 
 ---
-[Enseignement Scientifique](/es)
 
-
----
