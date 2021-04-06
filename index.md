@@ -5,6 +5,11 @@ Cette page est vouée à publier et mettre à jour les informations et ressource
 
 Bonne navigation ! 
 
+# Cours en visio-conférence
+
+Cliquez sur ce lien pour accéder au cours en direct : 
+
+azertyuiop
 
 # Enseignements au LAVP
 
