@@ -4,9 +4,13 @@
 
 Les mardi et mercredi de 20h à 22h. 
 
+**COURS**
+
 1) Variabilité génétique, mutations, et biodiversité<br>
-2) Immunologie 1/2 : système immunitaire et immuno-compétence innée<br>
-3) Immunologie 2/2 : immunité spécifique, adaptation, et apprentissage immuns<br>
+2) Immunologie A : système immunitaire et immuno-compétence innée<br>
+3) Immunologie B : immunité spécifique, adaptation, et apprentissage immuns<br>
+
+**ENTRAÎNEMENT**
 
 **EVALUATIONS LAVP**
 
