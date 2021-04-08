@@ -11,9 +11,9 @@
 
 Cours et exercices : 
 
-  1) [Nombres et Calcul](/2A/ch1)
-  3) [Equations du premier degré](/2A/ch2)
-  4) [Equation du deuxième degré](/2A/ch3)
+  1) [Nombres et Calcul](/2A/ch1.pdf)
+  3) [Equations du premier degré](/2A/ch2.pdf)
+  4) [Equation du deuxième degré](/2A/ch3.pdf)
 
 Evaluations : 
 
