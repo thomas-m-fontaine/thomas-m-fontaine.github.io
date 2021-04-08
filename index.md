@@ -26,11 +26,11 @@ Cliquez sur ce lien pour accéder au cours en direct :
 
 [Cours en ligne - BigBlueButton](https://demo.bigbluebutton.org/gl/tho-qnx-uqi-0js)
 
-*Le confinement actuel s'étend sur les quatres prochaines semaines et recouvre une première période de cours (semaine du 6 au 10 avril 2021 inclus) suivie d'une période de vacances de deux semaines (du 12 au 25 avril 2021), et enfin d'une seconde période de cours (semaine du 26 avril au 1er mai 2021 inclus).*
+*Le confinement actuel s'étend sur les quatres prochaines semaines et recouvre une première période de cours (semaine du 6 au 10 avril 2021 inclus) suivie d'une période de vacances de deux semaines (du 12 au 25 avril 2021 inclus), et enfin d'une seconde période de cours (semaine du 26 avril au 1er mai 2021 inclus).*
 
-*Pendant ces deux périodes de cours, l'enseignement sera dispensé en distanciel aux dates et horaires habituels sur la plateforme 'BigBlueButton' - accessible en cliquant sur le lien c-dessus depuis n'importe quel navigateur internent (e.g. Mozilla Firefox, Google Chrome, etc.) et n'importe quel matériel connecté à internet (e.g. ordinateur, téléphone portable, etc.). Les cours sont enregistrés et publiés parmi les ressources pédagogiques accessibles ci-après, donc visionnables ultérieurement.*
+*Pendant ces deux périodes de cours, l'enseignement sera dispensé en distanciel aux dates et horaires habituels sur la plateforme 'BigBlueButton' - accessible en cliquant sur le lien ci-dessus depuis n'importe quel navigateur (e.g. Mozilla Firefox, Google Chrome, etc.) et n'importe quel matériel connecté à internet (e.g. ordinateur, téléphone portable, etc.). Les cours sont enregistrés et publiés parmi les ressources pédagogiques accessibles par matière ci-dessus, donc visionnables ultérieurement.*
 
-*Le bon déroulé des cours en visio-conférence étant contraint par les limitations matérielles de chacun, il convient d'y respecter un code de bonne conduite. Comme en présentiel, l'assiduité et la ponctualité sont de mise pour les cours distanciels. Afin de fluidifier le déroulé des cours en ligne, les auditeurs sont priés de n'utiliser leur caméra (facultatif) et/ou leur microphone que lorsque nécéssaire, pendant une prise de parole par exemple.*
+*Le bon déroulé des cours en visio-conférence étant contraint par les limitations matérielles de chacun, il convient d'y respecter un code de bonne conduite. Comme en présentiel, l'assiduité et la ponctualité sont de mises pour les cours distanciels. Afin de fluidifier le déroulé des cours en ligne, les auditeurs sont priés de n'utiliser leur caméra (facultatif) et/ou leur microphone que lorsque nécéssaire.*
 
 # Baccalauréat
 
@@ -38,8 +38,6 @@ Le calendrier des épreuves écrites du baccalauréat est publié et mis-à-jour
 
 # Informations sanitaires
 
-Retrouvez sur cette page toutes les informations relatives à la pandémie de Covid-19 : 
-
-[Info Covid-19](/covid/covid)
+Retrouvez sur cette page toutes les informations relatives à la pandémie de Covid-19 : [Info Covid-19](/covid/covid).
 
 
