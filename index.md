@@ -34,6 +34,12 @@ Cliquez sur ce lien pour accéder au cours en direct :
 
 # Baccalauréat
 
-Le calendrier des épreuves écrites du baccalauréat est publié et mis-à-jour sur le site du [LAVP](https://www.lyceedadultes.fr/sitepedagogique/lmapolaccueil.html). A défaut d'information supplémentaire regardant le déroulé des épreuves dans le contexte sanitaire actuel, les auditeurs sont priés de se préparer à passer cette année les épreuves écrites en format présentiel.   
+Le calendrier des épreuves écrites du baccalauréat est publié et mis-à-jour sur le site du [LAVP](https://www.lyceedadultes.fr/sitepedagogique/lmapolaccueil.html). A défaut d'information supplémentaire regardant le déroulé des épreuves dans le contexte sanitaire actuel, les auditeurs sont priés de se préparer à passer cette année les épreuves écrites en format présentiel.
+
+# Informations sanitaires
+
+Retrouvez sur cette page toutes les informations relatives à la pandémie de Covid-19 : 
+
+[Info Covid-19](/covid/covid)
 
 
