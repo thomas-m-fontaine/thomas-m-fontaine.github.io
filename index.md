@@ -24,7 +24,7 @@ Cette page est vouée à publier et mettre à jour les informations et ressource
 
 Cliquez sur ce lien pour accéder au cours en direct : 
 
-[Cours en ligne - BigBlueButton](https://demo.bigbluebutton.org/gl/tho-qnx-uqi-0js)
+[Cours en ligne - BigBlueButton](https://meet.jit.si/LAVP)
 
 *Le confinement actuel s'étend sur les quatres prochaines semaines et recouvre une première période de cours (semaine du 6 au 10 avril 2021 inclus) suivie d'une période de vacances de deux semaines (du 12 au 25 avril 2021 inclus), et enfin d'une seconde période de cours (semaine du 26 avril au 1er mai 2021 inclus).*
 
