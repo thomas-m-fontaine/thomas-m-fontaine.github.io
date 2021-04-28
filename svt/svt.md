@@ -12,9 +12,9 @@ Les mardi et mercredi de 20h à 22h.
 
 **ENTRAÎNEMENT**
 
-1) [Interrogation blanche d'immunologie](/1C/exo/interro.pdf)<br>
-2) [Exercice sur l'intéraction THC-RIA](/1C/exo/exercice_THC_RIA.pdf)<br>
-3) [Exercice sur l'intéraction pollution-RIA](/1C/exo/QCM_pollution_RIA.pdf)<br>
+1) [Interrogation blanche d'immunologie](/svt/1C/exo/interro.pdf)<br>
+2) [Exercice sur l'intéraction THC-RIA](/svt/1C/exo/exercice_THC_RIA.pdf)<br>
+3) [Exercice sur l'intéraction pollution-RIA](/svt/1C/exo/QCM_pollution_RIA.pdf)<br>
 
 **EVALUATIONS LAVP**
 
