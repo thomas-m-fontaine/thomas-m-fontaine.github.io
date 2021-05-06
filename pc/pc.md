@@ -1,6 +1,6 @@
 # COURS DE PHYSIQUE ET CHIMIE
 
-## Premières A, et B
+## Premières A et B
 
 **Emploi du temps**
 - A : cours le vendredi en *semaines A* de 18h à 20h.
