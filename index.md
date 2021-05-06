@@ -24,7 +24,7 @@ Cette page est vouée à publier et mettre à jour les informations et ressource
 
 Cliquez sur ce lien pour accéder au cours en direct : 
 
-[BigBlueButton (recommandé)](https://demo.bigbluebutton.org/gl/tho-qnx-uqi-0js) OU [JitSi](https://meet.jit.si/LAVP)
+[BigBlueButton (recommandé)](https://demo.bigbluebutton.org/gl/tho-qnx-uqi-0js)   ou   [JitSi](https://meet.jit.si/LAVP)
 
 *L'enseignement dispensé en distanciel se tient aux dates et horaires habituels des cours, de préférence sur la plateforme 'BigBlueButton' (ou 'JitSi' en cas de non fonctionnement) - accessible en cliquant sur le lien ci-dessus depuis n'importe quel navigateur (e.g. Firefox, Chrome, Safari, etc.) et n'importe quel matériel connecté à internet (e.g. ordinateur, téléphone portable, tablette, etc.). Les cours sont enregistrés et publiés parmi les ressources pédagogiques accessibles par matière ci-dessus, donc visionnables ultérieurement.*
 
