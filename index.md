@@ -26,7 +26,7 @@ Cliquez sur ce lien pour accéder au cours en direct :
 
 [BigBlueButton (recommandé)](https://demo.bigbluebutton.org/gl/tho-qnx-uqi-0js)   ou   [JitSi](https://meet.jit.si/LAVP)
 
-*L'enseignement dispensé en distanciel se tient aux dates et horaires habituels des cours, de préférence sur la plateforme 'BigBlueButton' (ou 'JitSi' en cas de non fonctionnement) - accessible en cliquant sur le lien ci-dessus depuis n'importe quel navigateur (e.g. Firefox, Chrome, Safari, etc.) et n'importe quel matériel connecté à internet (e.g. ordinateur, téléphone portable, tablette, etc.). Les cours sont enregistrés et publiés parmi les ressources pédagogiques accessibles par matière ci-dessus, donc visionnables ultérieurement.*
+L'enseignement dispensé en distanciel se tient aux dates et horaires habituels des cours, de préférence sur la plateforme 'BigBlueButton' (ou 'JitSi' en cas de non fonctionnement) - accessible en cliquant sur le lien ci-dessus depuis n'importe quel navigateur (e.g. Firefox, Chrome, Safari, etc.) et n'importe quel matériel connecté à internet (e.g. ordinateur, téléphone portable, tablette, etc.). Les cours sont enregistrés et publiés parmi les ressources pédagogiques accessibles par matière ci-dessus, donc visionnables ultérieurement.
 
 *Le bon déroulé des cours en visio-conférence étant contraint par les limitations matérielles de chacun, il convient d'y respecter un code de bonne conduite. Comme en présentiel, l'assiduité et la ponctualité sont de mises pour les cours à distance. Afin de fluidifier le déroulé des cours en ligne, les auditeurs sont priés de n'utiliser leur caméra (facultatif) et/ou leur microphone que lorsque nécéssaire.*
 
