@@ -17,5 +17,6 @@ Cours et exercices :
 
 Evaluations : 
 
-  1) Devoir maison 1
-  2) 
+  1) Devoir 1 : [Sujet](/math/2A/ch1/Devoir1_sujet.pdf) & [Indications](/math/2A/ch1/Devoir1_indications.pdf)<br>
+  2) Devoir 2 : [Sujet](/math/2A/ch2/devoir2.pdf)<br>
+  3) Devoir 3 : [Sujet](/math/2A/ch3/Interro_maths1.pdf)<br>
