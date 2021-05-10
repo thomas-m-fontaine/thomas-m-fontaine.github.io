@@ -13,7 +13,12 @@ Cours et exercices :
 
   1) [Nombres et Calcul](/math/2A/ch1/ch1.pdf)<br>
   2) [Equations du premier degré](/math/2A/ch2/ch2.pdf)<br>
-  3) [Equation du deuxième degré](/math/2A/ch3/ch3.pdf)<br>
+  3) [Introduction aux équations de degré supérieur](/math/2A/ch3/ch3.pdf)<br>
+  4) Analyse des fonctions réelles
+  5) Suites numériques et algorithmique
+  6) Géométrie vectorielle
+  7) Probabilités
+  8) Statistiques
 
 Evaluations : 
 
