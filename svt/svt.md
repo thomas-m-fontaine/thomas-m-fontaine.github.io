@@ -16,9 +16,10 @@ Les mardi et mercredi de 20h à 22h.
 2) [Exercice sur l'intéraction THC-RIA](/svt/1C/exo/exercice_THC_RIA.pdf)<br>
 3) [Exercice sur l'intéraction pollution-RIA](/svt/1C/exo/QCM_pollution_RIA.pdf)<br>
 
-**EVALUATIONS LAVP**
+**BACCALAUREAT**
 
-**EVALUATIONS BACCALAUREAT**
+1) [Exemples de sujets de baccalauréat (E3C - Première)](/svt/1C/bac/s0.pdf)
+2) [Exemples de corrigé (E3C - Première)](/svt/1C/bac/s0_cor.pdf)
 
-Les épreuves écrites de spécialité SVT, à destination des auditeurs qui ne conservent pas ce cours de spécialité pour l'année de Terminale, auront lieu le **lundi 31 mai 2021 de 9h à 11h**. Le lieu de composition sera communiqué aux auditeurs par le biais d'une convocation individuelle, envoyée par voie postale (fort probablement deux semaines avant les épreuves). 
+Les épreuves écrites de spécialité SVT, à destination des auditeurs qui ne conservent pas ce cours de spécialité pour l'année de Terminale, auront lieu le **lundi 31 mai 2021 de 9h à 11h**. Le lieu de composition sera communiqué aux auditeurs par le biais d'une convocation individuelle, envoyée par voie postale. 
 
