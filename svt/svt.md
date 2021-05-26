@@ -18,7 +18,7 @@ Les mardi et mercredi de 20h à 22h.
 
 **BACCALAUREAT**
 
-1) [Exemples de sujets de baccalauréat (E3C - Première)](/svt/1C/bac/s0.pdf)<br>
+1) [Exemples de sujet de baccalauréat (E3C - Première)](/svt/1C/bac/s0.pdf)<br>
 2) [Exemples de corrigé (E3C - Première)](/svt/1C/bac/s0_cor.pdf)<br>
 3) [Grille d'évaluation du correcteur](/svt/1C/bac/bareme.pdf)<br>
 
