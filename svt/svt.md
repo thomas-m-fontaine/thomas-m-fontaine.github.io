@@ -2,7 +2,7 @@
 
 ## Cours de spécialité - Première C
 
-Les mardi et mercredi de 20h à 22h. 
+Les mardi (en salle 10) et mercredi (en salle 9) de 20h à 22h. 
 
 **COURS**
 
@@ -16,7 +16,7 @@ Les mardi et mercredi de 20h à 22h.
 2) [Exercice sur l'intéraction THC-RIA](/svt/1C/exo/exercice_THC_RIA.pdf)<br>
 3) [Exercice sur l'intéraction pollution-RIA](/svt/1C/exo/QCM_pollution_RIA.pdf)<br>
 
-**BACCALAUREAT**
+**BACCALAURÉAT**
 
 1) [Exemples de sujet de baccalauréat (E3C - Première)](/svt/1C/bac/s0.pdf)<br>
 2) [Exemples de corrigé (E3C - Première)](/svt/1C/bac/s0_cor.pdf)<br>
