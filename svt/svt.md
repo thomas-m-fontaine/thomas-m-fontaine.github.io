@@ -1,6 +1,6 @@
-# SCIENCES DE LA VIE ET DE LA TERRE
+# Sciences de la Vie et de la Terre
 
-## Cours de spécialité - Première C
+## Cours de Spécialité - Première C
 
 Les mardi (en salle 10) et mercredi (en salle 9) de 20h à 22h. 
 
