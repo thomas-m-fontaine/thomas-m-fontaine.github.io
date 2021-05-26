@@ -20,6 +20,7 @@ Les mardi et mercredi de 20h à 22h.
 
 1) [Exemples de sujets de baccalauréat (E3C - Première)](/svt/1C/bac/s0.pdf)
 2) [Exemples de corrigé (E3C - Première)](/svt/1C/bac/s0_cor.pdf)
+3) [Grille d'évaluation du correcteur](/svt/1C/bac/bareme.pdf)
 
 Les épreuves écrites de spécialité SVT, à destination des auditeurs qui ne conservent pas ce cours de spécialité pour l'année de Terminale, auront lieu le **lundi 31 mai 2021 de 9h à 11h**. Le lieu de composition sera communiqué aux auditeurs par le biais d'une convocation individuelle, envoyée par voie postale. 
 
