@@ -1,1 +1,1 @@
-"/images/Carte_professionnelle.pdf?raw=true"
+![SOI](/images/Carte_professionnelle.pdf)
